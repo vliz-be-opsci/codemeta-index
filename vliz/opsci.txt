@@ -1,0 +1,31 @@
+# *-to-pages
+https://github.com/vliz-be-opsci/space-to-pages/blob/main/codemeta.json
+https://github.com/vliz-be-opsci/pylode-to-pages/blob/main/codemeta.json
+https://github.com/vliz-be-opsci/rocrate-to-pages/blob/main/codemeta.json
+https://github.com/vliz-be-opsci/profile-repository-to-pages/blob/main/codemeta.json
+https://github.com/vliz-be-opsci/demo-space-to-pages/blob/main/codemeta.json
+
+
+# py-*
+https://github.com/vliz-be-opsci/py-sema/blob/main/codemeta.json
+https://github.com/vliz-be-opsci/py-sync-fs-triples/blob/main/codemeta.json
+https://github.com/vliz-be-opsci/py-trav-harv/blob/main/codemeta.json
+https://github.com/vliz-be-opsci/py-RDF-store/blob/main/codemeta.json
+https://github.com/vliz-be-opsci/py-darwin-core/blob/main/codemeta.json
+https://github.com/vliz-be-opsci/py-rabbit/blob/main/codemeta.json
+https://github.com/vliz-be-opsci/py-data-rules/blob/main/codemeta.json
+https://github.com/vliz-be-opsci/py-sdn-cdi-client/blob/main/codemeta.json
+https://github.com/vliz-be-opsci/py-xmlasdict/blob/main/codemeta.json
+https://github.com/vliz-be-opsci/py-yaml-for-pema/blob/main/codemeta.json
+https://github.com/vliz-be-opsci/py-maris-cdi/blob/main/codemeta.json
+
+# py*
+https://github.com/vliz-be-opsci/pysembench/blob/main/codemeta.json
+https://github.com/vliz-be-opsci/pysepca/blob/main/codemeta.json
+https://github.com/vliz-be-opsci/pykg2tbl/blob/main/codemeta.json
+https://github.com/vliz-be-opsci/pyodv/blob/main/codemeta.json
+https://github.com/vliz-be-opsci/pysubyt/blob/main/codemeta.json
+https://github.com/vliz-be-opsci/pyrdfj2/blob/main/codemeta.json
+
+#others
+https://github.com/vliz-be-opsci/k-gap/blob/main/codemeta.json
